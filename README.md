@@ -12,6 +12,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Sitemap
 
-- [Authentication](authentication.md)
-- [Metadata](metadata.md)
+- [Authentication](Authentication.md)
+- [Metadata](Metadata.md)
 - [Find Champion](find_champion.md)
