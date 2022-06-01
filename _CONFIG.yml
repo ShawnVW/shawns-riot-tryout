@@ -5,9 +5,9 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - AUTHENTICATION.md
+  - Authentication.md
   - README.md
   - LICENSE.md
-  - FIND_CHAMPION.md
-  - HOMEPAGE.md
-  - METADATA.md
+  - find_champion.md
+  - HomePage.md
+  - Metadata.md
