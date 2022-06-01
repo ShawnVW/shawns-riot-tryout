@@ -1,8 +1,8 @@
 - name: Home
   href: homepage.md
 - name: Authentication
-  href: Authentication.md
+  href: authentication.md
   name: Metadata
-  href: Metadata
+  href: metadata
 - name: Find Champion
   href: find_champion.md

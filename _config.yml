@@ -1,1 +1,14 @@
+
 theme: jekyll-theme-dinky
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - authentication.md
+  - README.md
+  - LICENSE.md
+  - find_champion.md
+  - homepage.md
+  - metadata.md
